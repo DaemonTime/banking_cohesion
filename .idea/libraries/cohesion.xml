@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cohesion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BankAccount/cohesion.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
